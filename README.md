@@ -4,8 +4,8 @@
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me frederickleluly@gmail.com
 - Social Media
-- Instagram @Zealouskestrel
-- Facebook facebook.com/zealouskestrel
+- Instagram [@Zealouskestrel](https://www.instagram.com/zealouskestrel/)
+- Facebook [facebook.com/zealouskestrel](facebook.com/zealouskestrel)
 
 <!---
 zealousKestrel/zealousKestrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
